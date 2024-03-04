@@ -6,7 +6,7 @@ Prerequisites
 
 * A server with a publically accessible IP address, preferably running Fedora 39 as this is the platform we test against.
 * A domain to point at the API instance
-* Have a compiled copy of the code, as instructed in `Compilation <compilation>`_
+* Have a compiled copy of the code, as instructed in `Compilation <compilation.html>`_
 
 .. note::
 
