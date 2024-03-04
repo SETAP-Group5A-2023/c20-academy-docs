@@ -8,4 +8,5 @@ Contents
 
 .. toctree::
 
+  compilation
   installation
