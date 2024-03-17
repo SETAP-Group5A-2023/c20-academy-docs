@@ -9,7 +9,7 @@ Prerequisites
 Compiling
 ---------
 
-#. Clone the repository locally (`on Github <https://github.com/SETAP-Group5A-2023/c20-academy-api>`_)
+#. Clone the repository locally (`Github <https://github.com/SETAP-Group5A-2023/c20-academy-api>`_)
 #. Enter the folder you cloned into
 #. Run :code:`dart compile exe ./api/bin/c20_academy_api.dart -o c20-academy-api`
 

@@ -12,7 +12,7 @@ C20 Academy is a web application aiming to help people learn about the important
 
 .. note::
 
-   This project is under active development.
+   This project is under active development, as part of a University course.
 
 Contents
 --------
