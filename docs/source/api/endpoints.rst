@@ -583,9 +583,9 @@ Returns a list of trivia sections which match the search term.
 .. list-table:: Arguments
   :header-rows: 0
 
-  * - | :code:`id`
+  * - | :code:`q`
       | REQUIRED
-    - A positive integer representing the ID of a trivia section in the database
+    - A search term which trivia section titles should be matched against
 
 .. list-table:: Return Values
   :header-rows: 0
