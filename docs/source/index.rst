@@ -1,7 +1,7 @@
 C20 Academy
 ===========
 
-.. tocTree ::
+.. toctree ::
    :max-depth: 2
    :hidden:
    :caption: API
@@ -10,8 +10,9 @@ C20 Academy
    /api/endpoints.rst
    /api/compilation.rst
    /api/installation.rst
+   Code Docs <https://api-docs.c20.academy>
 
-.. tocTree ::
+.. toctree ::
    :max-depth: 2
    :hidden:
    :caption: Web App
