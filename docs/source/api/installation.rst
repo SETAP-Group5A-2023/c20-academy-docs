@@ -19,7 +19,8 @@ Installing
 #. Set a user name and password for the API to access the database
 #. Use the :code:`database/db_create.sql` file to set up the database and tables in Postgres (Upload the file to the server, then use :code:`\\i <filename>` in Postgres to run the file)
 #. If you are installing for testing purposes, also run the :code:`database/db_populate.sql` file to add some dummy data to the database, using the same steps as above
-#. Upload the compiled binary to the server
-#. Run the binary once manually to generate a blank :code:`config.yaml`. Edit this to reflect the user name, password and address of your Postgres server, as well as the IP address of your server and the port number you wish to use
+#. Upload the compiled binary to the server's :code:`/usr/bin/` folder
+#. Create the :code:`/etc/c20-academy-api/` folder
+#. Run :code:`c20-academy-api` inside the folder to create a blank :code:`config.yaml`, and edit as required
 #. Copy :code:`api/c20-academy-api.service` into :code:`/etc/systemd/system/`
 #. Start the systemd service (Using :code:`# systemctl start c20-academy-api` or :code:`# systemctl enable --now c20-academy-api`)
