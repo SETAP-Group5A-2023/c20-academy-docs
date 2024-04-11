@@ -1,6 +1,23 @@
 C20 Academy
 ===========
 
+.. tocTree ::
+   :max-depth: 2
+   :hidden:
+   :caption: API
+
+   /api/index.rst
+   /api/endpoints.rst
+   /api/compilation.rst
+   /api/installation.rst
+
+.. tocTree ::
+   :max-depth: 2
+   :hidden:
+   :caption: Web App
+
+   /webapp/index.rst
+
 C20 Academy is a web application aiming to help people learn about the important events and history from the 20th Century. The project includes an API and a Web App, developed in Dart with Shelf and Flutter respectively.
 
 | up2157117 - HughTB
@@ -13,11 +30,3 @@ C20 Academy is a web application aiming to help people learn about the important
 .. note::
 
    This project is under active development, as part of a University course.
-
-Contents
---------
-
-.. toctree::
-
-   api/index
-   webapp/index
