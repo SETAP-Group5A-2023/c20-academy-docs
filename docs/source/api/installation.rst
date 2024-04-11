@@ -4,9 +4,9 @@ Installation
 Prerequisites
 -------------
 
-* A server with a publicly accessible IP address, preferably running Fedora 39 as this is the platform we test against.
+* A server with a publicly accessible IP address, preferably running either Fedora 39 or Ubuntu 22.04 LTS, as these are the platforms we test against
 * A domain to point at the API instance
-* Have a compiled copy of the code, as instructed in `Compilation <compilation.html>`_
+* A compiled copy of the code, as instructed in `Compilation <compilation.html>`_
 
 .. note::
 
