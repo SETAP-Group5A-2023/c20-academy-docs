@@ -18,6 +18,8 @@ C20 Academy
    :caption: Web App
 
    /webapp/index.rst
+   /webapp/compilation.rst
+   /webapp/installation.rst
 
 C20 Academy is a web application aiming to help people learn about the important events and history from the 20th Century. The project includes an API and a Web App, developed in Dart with Shelf and Flutter respectively.
 
