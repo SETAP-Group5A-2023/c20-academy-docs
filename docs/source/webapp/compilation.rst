@@ -12,4 +12,4 @@ Compiling
 
 #. Clone the repository locally (`Github <https://github.com/SETAP-Group5A-2023/c20-academy>`_)
 #. Enter the folder you cloned into
-#. Run :code:`Not sure what goes here yet`
+#. Run :code:`flutter build web`, which compiles a web app into the :code:`build/web` folder
